@@ -21,7 +21,7 @@
     "express": "^4.13.3",
     "random-seed": "^0.3.0",
     "shuffle-array": "pazguille/shuffle-array#0.1.2",
-    "stringify-clone": "^1.1.1"
+    "stringify-clone": "^2.0.0"
   },
   "babel": {
     "presets": [
