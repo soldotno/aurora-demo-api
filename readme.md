@@ -1,6 +1,8 @@
 Aurora Demo API
 ===============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/soldotno/aurora-demo-api.svg)](https://greenkeeper.io/)
+
 Demo implementation of an API conforming to [aurora-core](https://github.com/soldotno/aurora-core) specifications.
 
 #### Install dependencies (some might need to use `sudo` for various reasons):
