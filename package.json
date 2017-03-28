@@ -1,6 +1,6 @@
 {
   "name": "aurora-demo-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Aurora Demo API",
   "main": "server-bootstrap.js",
   "scripts": {
