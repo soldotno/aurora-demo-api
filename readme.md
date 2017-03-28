@@ -10,9 +10,9 @@ Demo implementation of an API conforming to [aurora-core](https://github.com/sol
 #### Development shellscript example:
 ```sh
 #!/bin/sh
-export PORT=3001 \
-export DEBUG="*" \
-export NODE_ENV="development" \
+export PORT=3001
+export DEBUG="*, -babel"
+export NODE_ENV="development"
 
 npm start
 ```
