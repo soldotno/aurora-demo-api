@@ -16,7 +16,7 @@
     "babel-preset-stage-0": "6.24.1",
     "compression": "1.6.1",
     "cors": "2.8.3",
-    "debug": "2.6.6",
+    "debug": "2.6.7",
     "deep-equal": "1.0.1",
     "express": "4.13.3",
     "random-seed": "0.3.0",
